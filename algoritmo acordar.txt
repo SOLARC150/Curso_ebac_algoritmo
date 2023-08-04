@@ -1,0 +1,16 @@
+1 - está dormindo? sim
+	1- acordar 
+2 - Abrir os olhos
+3 - levantar da cama
+4 - arrumar cama
+5 - abrir cortina
+6 - abrir janela
+7 - ir para o banheiro
+8 - pegar escova
+9 - pegar a pasta de dente
+10 - passar pasta na escova
+11 - guardar pasta
+12 - escovar os dentes
+13 - enxaguar a boca
+
+Fim
