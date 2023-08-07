@@ -14,3 +14,7 @@
 13 - enxaguar a boca
 
 Fim
+
+A programação procedural é muito desorganizado fica tudo em uma classe só,
+diferentemente da orientada a objeto que cada classe tem seu conteudo se por exemplo tiver uma classe
+chamada computador terá as variaveis que seriam as peças e também terá as funções como ligar ou desligar.
